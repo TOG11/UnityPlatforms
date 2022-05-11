@@ -5,7 +5,7 @@ A simple and complex easy to use configuration for setting up all types of platf
 PRE-V4 MPC Docs
 
 
-Add the <code>PlayerPlatformDetector.cs</code> to the <code>GameObject</code> with the PlayController on it!
+Add the <code>PlayerPlatformDetector.cs</code> to the <code>GameObject</code> with the PlayerController on it! (Rigidbody not yet fully-supported!)
 
 If this is not added properly, the character will not stick to the platforms!
 
