@@ -1,7 +1,7 @@
-# UnityPlatforms
+## UnityPlatforms
 A simple and complex easy to use configuration for setting up all types of platforms! from moving, to rotating, this is the package you'll need!
 <br><br>
-#Documentation(PRE-V4):
+# Documentation(PRE-V4):
 PRE-V4 MPC Docs
 
 
